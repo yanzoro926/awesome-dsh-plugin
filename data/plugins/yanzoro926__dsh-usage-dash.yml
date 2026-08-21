@@ -1,0 +1,6 @@
+url: https://github.com/yanzoro926/dsh-usage-dash
+name: yanzoro926/dsh-usage-dash
+category: usage
+description:
+  en: Sidebar footer dashboard for coding-plan quotas: official OpenCode Go usage API, local Codex rate_limits, Volcengine CodingPlan via arkcli, DeepSeek account balance, and self-service custom plans.
+  zh: 侧栏底部 Coding Plan 额度面板：OpenCode Go 官方 API、本机 Codex rate_limits、火山 CodingPlan（arkcli）、DeepSeek 账户余额，以及自服务自定义套餐。
